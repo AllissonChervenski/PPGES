@@ -14,6 +14,21 @@ function showText(a, b) {
 
 }
 
+function showTex(a, b) {
+    var element = document.getElementById(a);
+    var text = document.getElementById(b);
+    element.classList.toggle("aberto");
+    if (element.classList.contains("aberto")) {
+        $(element).fadeIn(500);
+        text.innerText = "See Less";
+    } else {
+        $(element).fadeOut(500);
+        text.innerText = "See More";
+
+    }
+
+}
+
 function showTable(a, b) {
     var element = document.getElementById(a);
     var text = document.getElementById(b);
@@ -21,9 +36,27 @@ function showTable(a, b) {
     if (element.classList.contains("aberto")) {
         $(element).fadeIn(500);
         text.innerHTML = "Fechar";
-    } else {
+    }
+    
+    else {
         $(element).fadeOut(500);
         text.innerHTML = "Visualizar";
+    }
+
+}
+
+function showTab(a, b) {
+    var element = document.getElementById(a);
+    var text = document.getElementById(b);
+    element.classList.toggle("aberto");
+    if (element.classList.contains("aberto")) {
+        $(element).fadeIn(500);
+        text.innerHTML = "Close";
+    }
+    
+    else {
+        $(element).fadeOut(500);
+        text.innerHTML = "See More";
     }
 
 }
