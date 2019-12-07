@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>PPGES - Eventos</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <title>PPGES - Events</title>
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
-    <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="../assets/css/smoothproducts.css">
 </head>
 
 <body>
@@ -16,32 +16,36 @@
         style="padding-right: 20px;padding-left: 20px;padding-top: 0px;padding-bottom: 0px;">
         <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span
                     class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><img
-                class="img-fluid" src="assets/img/unipampa.png" width="120px" style="margin: 0px;margin-left: 40px;">
+                class="img-fluid" src="../assets/img/unipampa.png" width="120px" style="margin: 0px;margin-left: 40px;">
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
-                            href="index.html">Apresentação</a></li>
+                            href="indexEnglish.php">Presentation</a></li>
                     <li class="nav-item text-uppercase my-auto" role="presentation" style="padding-right: 0px;">
-                        <div class="nav-item dropdown align-content-start"
-                            ><a class="dropdown-toggle"
+                        <div class="nav-item dropdown align-content-start"><a class="dropdown-toggle"
                                 data-toggle="dropdown" aria-expanded="false" href="#"
-                                style="color: rgba(0,0,0,0.9);font-size: 12.8px;font-weight: 600;">Corpo discente e
-                                doscente</a>
+                                style="color: rgba(0,0,0,0.9);font-size: 12.8px;font-weight: 600;">
+                                students and teachers</a>
                             <div class="dropdown-menu" role="menu" style="font-size: 12px;"><a class="dropdown-item"
-                                    role="presentation" href="coordenadores.html">Coordenação</a><a class="dropdown-item"
-                                    role="presentation" href="orientadores.html">Professores orientadores</a><a class="dropdown-item"
-                                    role="presentation" href="alunos.html">Alunos</a></div>
+                                    role="presentation" href="coordenadoresEnglish.php">coordination</a><a
+                                    class="dropdown-item" role="presentation" href="orientadoresEnglish.php">guiding
+                                    teachers</a><a class="dropdown-item" role="presentation"
+                                    href="alunosEnglish.php">Students</a></div>
                         </div>
                     </li>
                     <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
-                            href="eventos.html">Eventos</a></li>
+                            href="eventosEnglish.php">Events</a></li>
                     <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
-                            href="seminarios.html">Seminários e palestras</a></li>
+                            href="seminariosEnglish.php">Seminars and Lectures</a></li>
                     <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
-                            href="disciplinas.html">Disciplinas do mestrado</a></li>
+                            href="disciplinasEnglish.php">
+                            Master's Subjects</a></li>
                     <li class="nav-item" role="presentation" style="padding-right: 0px;"><a class="nav-link active"
-                            href="informes.html">Informes</a></li>
-                    <li style="padding-right: 0px;" class="nav-item" role="presentation"><a href="translated/eventosEnglish.html" class="nav-link active"style="font-weight: 300; font-size: 12px; vertical-align: -webkit-baseline-middle; text-transform: none;">English Version</a></li>
+                            href="informesEnglish.php">Reports</a></li>
+                    <li style="padding-right: 0px;" class="nav-item" role="presentation"><a href="../eventos.php"
+                            class="nav-link active"
+                            style="font-weight: 300; font-size: 12px; vertical-align: -webkit-baseline-middle; text-transform: none;">Versão
+                            em Português</a></li>
 
                 </ul>
             </div>
@@ -49,88 +53,78 @@
     </nav>
     <main class="page landing-page">
         <section class="shadow-sm clean-block clean-hero"
-            style="background-image: url(&quot;assets/img/dia-do-estudante-990x556.jpg&quot;);color: rgba(36,137,13, 0.85);opacity: 1;filter: blur(0px);min-height: 500px;">
+            style="background-image: url(&quot;../assets/img/dia-do-estudante-990x556.jpg&quot;);color: rgba(36,137,13, 0.85);opacity: 1;filter: blur(0px);min-height: 500px;">
             <div class="text" style="max-width: 832px;">
-                <h1 class="display-4 text-center"><br>Programa de Pós-Graduação em Engenharia de Software
+
+                <h1 class="display-4 text-center"><br> Postgraduate Program in Software Engineering
                     (PPGES)&nbsp;<br><br></h1>
-                <p>Programa de Pós-graduação em Engenharia de Software vinculado à Universidade Federal do Pampa
-                    (UNIPAMPA)</p>
+                <p>Postgraduate Program in Software Engineering linked to the Federal University of Pampa (UNIPAMPA)</p>
             </div>
         </section>
         <section class="clean-block features" style="padding-bottom: 6px;">
             <div class="container" id="secontainer">
                 <div class="block-heading" style="padding-top: 25px; margin-bottom: 0px;">
-                    <h1 style="border-bottom: 1px solid rgba(0,0,0,.1);padding-bottom: 20px;">Eventos</h1>
+                    <h1 style="border-bottom: 1px solid rgba(0,0,0,.1);padding-bottom: 20px;">Events</h1>
                 </div>
                 <div id="my-divent" class="block-heading bordering" style="margin-top: 0px">
-                    <h3 class="text-left text-dark" onclick="showText('regionais', 'ler'), showBorder('my-divent')">
-                        Eventos Regionais</h3>
+                    <h3 class="text-left text-dark" onclick="showTex('regionais', 'ler'), showBorder('my-divent')">
+                        Regional Events</h3>
                     <h6 class="text-left d-sm-flex" style="font-size: 16px;color: rgba(33,37,41,0.66);"
-                        onclick="showText('regionais', 'ler'), showBorder('my-divent')" id="ler">Ler mais</h6>
+                        onclick="showTex('regionais', 'ler'), showBorder('my-divent')" id="ler">See More</h6>
                     <p class="text-justify"
                         style="border-bottom: 1px solid rgba(0,0,0,.3);max-width: none;opacity: 0.80;" id="regionais">
-                        <a href="https://errc.sbc.org.br/2019/">17ª Escola Regional de Redes de Computadores</a>. A XVII
-                        Escola Regional de Redes de Computadores
-                        (<b>ERRC 2019</b>) ocorrerá em Alegrete, RS, no período de 16 a 19 de setembro de 2019, durante
-                        a
-                        <b>Semana Farroupilha.</b> A ERRC 2019 está sendo organizado pelo Programa de Pós-graduação em
-                        Engenharia de Software (<a href="http://cursos.unipampa.edu.br/cursos/ppges/"><b>PPGES</b></a>)
-                        da Universidade Federal do Pampa (<a>Unipampa</a>), pelo Instituto
-                        Federal Farroupilha (<a>IFFar</a>) e pelo Parque Científico e Tecnológico do Pampa (<a
-                            href="https://sites.unipampa.edu.br/pampatec/"><b>PampaTec</b></a>), com a
-                        colaboração de diversas outras instituições de ensino, pesquisa e extensão. A ERRC é realizada
-                        anualmente pela Sociedade Brasileira de Computação (<b>SBC</b>) e acompanha a filosofia de
-                        outras
-                        escolas realizadas no Estado, como a Escola Regional de Alto Desempenho (<a
-                            href="https://www.setrem.com.br/erad2019/"><b>ERAD</b></a>) e a Escola
-                        Regional de Banco de Dados (<a href="http://www.sbc.org.br/erbd2019/"><b>ERBD</b></a>). Confira
-                        aqui o <a
-                            href="http://cursos.unipampa.edu.br/cursos/ppges/files/2019/04/cartaz_a4_v4.pdf">Cartaz</a>
-                        do evento.
-                        <br><br>
-                        <a href="http://www.sbc.org.br/eres2019">3ª Escola Regional de Engenharia de Software</a>. A
-                        Escola Regional de Engenharia de Software (<b>ERES</b>)
-                        é um evento promovido anualmente pela Sociedade Brasileira de Computação (<b>SBC</b>) . A
-                        terceira
-                        edição do evento, a <b>ERES 2019</b>, ocorrerá em Rio do Sul (SC), região do Alto Vale do
-                        Itajaí, no
-                        período de 07 a 09 de outubro de 2019, e será organizada conjuntamente pelo Instituto Federal
-                        Catarinense (<a>IFC</a>) e pela Universidade do Estado de Santa Catarina (<b>UDESC</b>). O
-                        objetivo da ERES é
-                        promover e disseminar o conhecimento e boas práticas de Engenharia de Software, tanto do ponto
-                        de vista profissional quanto acadêmico. A ERES 2019 é um espaço regional onde são apresentados
-                        resultados de pesquisa (graduação e pós-graduação) e relatos de experiência na indústria. O
-                        evento oferece um ambiente propício para discussão de abordagens de ensino-aprendizagem em
-                        Engenharia de Software nas instituições de ensino superior da região Sul do Brasil, e também
-                        para troca de experiências quanto à aplicação de métodos/técnicas de Engenharia de Software nas
-                        indústrias desta região.<br><br></p>
+                        <a href="https://errc.sbc.org.br/2019/"> 17th Regional School of Computer Networks </a>. The
+                        17th Regional Computer Networking School (<b> ERRC 2019 </b>) will be held in Alegrete, RS, from
+                        September 16-19, 2019, during <b> Farroupilha Week. </b> ERRC 2019 is being organized by the
+                        Graduate Program in Software Engineering (<a href="http://cursos.unipampa.edu.br/cursos/ppges/">
+                            <b> PPGES </b> </a> ) of the Federal University of Pampa (<a> Unipampa </a>), the Federal
+                        Institute Farroupilha (<a> IFFar </a>) and the Pampa Science and Technology Park (<a
+                            href="https: // sites .unipampa.edu.br / pampatec / "> <b> PampaTec </b> </a>), with the
+                        collaboration of several other educational, research and extension institutions. The ERRC is
+                        held annually by the Brazilian Computer Society (<b> SBC </b>) and follows the philosophy of
+                        other state-run schools, such as the High Performance Regional School (<a
+                            href="https://www.setrem.com.br/erad2019/"> <b> ERAD </b> </a>) and the Regional Database
+                        School (<a href="http://www.sbc.org.br/erbd2019/"> <b> ERBD </b> </a>). Check here the <a
+                            href="http://cursos.unipampa.edu.br/cursos/ppges/files/2019/04/cartaz_a4_v4.pdf"> Poster
+                        </a> of the event.
+                                                 <br>
+                        <a href="http://www.sbc.org.br/eres2019"> 3rd Regional School of Software Engineering </a>. The
+                        Regional School of Software Engineering (<b> ERES </b>)
+                        is an event promoted annually by the Brazilian Computer Society (<b> SBC </b>). The third
+                        edition of the event, <b> ERES 2019 </b>, will take place in Rio do Sul (SC), Alto Vale do
+                        Itajaí region, from October 7 to 9, 2019, and will be jointly organized by the Instituto Federal
+                        Santa Catarina (<a> IFC </a>) and the Santa Catarina State University (<b> UDESC </b>). The
+                        purpose of ERES is to promote and disseminate knowledge and good practices of Software
+                        Engineering, both professionally and academically. ERES 2019 is a regional space where research
+                        results (undergraduate and graduate) and industry experience reports are presented. The event
+                        provides a conducive environment for discussion of Software Engineering teaching-learning
+                        approaches in higher education institutions in the southern region of Brazil, as well as for the
+                        exchange of experiences regarding the application of Software Engineering methods / techniques
+                        in the industries of this region. . <br> <br> </p>
 
 
                 </div>
 
                 <div id="my-divent2" class="block-heading bordering">
-                    <h3 class="text-left text-dark" onclick="showText('nacionais', 'ler2'), showBorder('my-div2')">
-                        Eventos Nacionais</h3>
+                    <h3 class="text-left text-dark" onclick="showTex('nacionais', 'ler2'), showBorder('my-div2')">
+                        National Events</h3>
                     <h6 id="ler2" class="text-left d-sm-flex" style="font-size: 16px;color: rgba(33,37,41,0.66);"
-                        onclick="showText('nacionais', 'ler2'), showBorder('my-divent2')">Ler mais</h6>
+                        onclick="showTex('nacionais', 'ler2'), showBorder('my-divent2')">See More</h6>
                     <p class="text-justify"
                         style="border-bottom: 1px solid rgba(0,0,0,.3);max-width: none;opacity: 0.80;" id="nacionais">
                         <a href="http://inf.ufg.br/mssis/index.html"> <span style="  text-decoration: underline;">I
-                                Workshop M&amp;S-SIS</span></a>. O objetivo do  Workshop de Modelagem e Simulação de
-                        Sistemas Intensivos em Software (<strong>M&amp;S-SIS</strong>), além de delinear a comunidade
-                        brasileira que trabalha com simulações no contexto de engenharia de
-                        software, é oferecer um ambiente para discussão das possíveis sinergias entre o paradigma de
-                        modelagem e simulação (<strong>M&amp;S</strong>) predominante na Engenharia de Sistemas e a
-                        Engenharia de Software. Além disso,  aborda as pesquisas em Engenharia
-                        de Software Dirigida por Modelos, em particular, no que tange aos modelos em tempo de execução.
-                        Também aceita trabalhos discutindo como representar fidedignamente software utilizando modelos
-                        de simulação de modo a possibilitar que simuladores e interpretadores
-                        de modelos executáveis possam tornar-se plataformas de apoio às diversas etapas do processo de
-                        desenvolvimento de software.<br><br>
+                        Workshop M&amp;S-SIS</span></a>. The objective of the Software Intensive Systems Modeling and Simulation Workshop (<strong>M&amp;S-SIS</strong>), in addition to
+                        outlining the Brazilian community that works with simulations in the context of software
+                        engineering, is to provide an environment for discussion of possible synergies between the
+                        predominant modeling and simulation paradigm (<strong>M&amp;S</strong>) in Systems Engineering and Software Engineering.
+                        In addition, it addresses research in Model-Driven Software Engineering, in particular with
+                        regard to models at run time. It also accepts papers discussing how to reliably represent
+                        software using simulation models to enable executable model simulators and interpreters to
+                        become platforms to support the various stages of the software development process. <br> <br>
+
                         <a href="http://sbesc.lisha.ufsc.br/sbesc2019/Home"><span style="  text-decoration: underline;">
-                                IX Brazilian Symposium on Computing Systems Engineering</span></a>. 
-                        The <strong>Brazilian Symposium on Computing
-                            Systems Engineering </strong>(SBESC) is an initiative of the research community
+                        IX Brazilian Symposium on Computing Systems Engineering</span></a>. The <strong>Brazilian Symposium on Computing
+                        Systems Engineering </strong>(SBESC) is an initiative of the research community
                         originally associated with three events, the <strong>Operating Systems
                             Workshop</strong> (WSO), <strong>Embedded Systems Workshop</strong> (WSE)
                         and <strong>Real-Time Systems Workshop</strong> (WTR), acknowledging the strong synergy
@@ -176,10 +170,10 @@
                 </div>
                 <div id="my-divent3" class="block-heading bordering">
                     <h3 class="text-left text-dark"
-                        onclick="showText('internacionais', 'ler3'), showBorder('my-divent3')">
-                        Eventos Internacionais</h3>
+                        onclick="showTex('internacionais', 'ler3'), showBorder('my-divent3')">
+                        International Events</h3>
                     <h6 id="ler3" class="text-left d-sm-flex" style="font-size: 16px;color: rgba(33,37,41,0.66);"
-                        onclick="showText('internacionais', 'ler3'), showBorder('my-divent3')">Ler mais</h6>
+                        onclick="showTex('internacionais', 'ler3'), showBorder('my-divent3')">See More</h6>
 
                     <p id="internacionais" class="text-justify"
                         style="border-bottom: 1px solid rgba(0,0,0,.3);max-width: none;opacity: 0.80;">
@@ -211,8 +205,10 @@
 
 
 
-                        <a href="http://www.inf.ufrgs.br/er2019/call-for-papers/"><span style="  text-decoration: underline;">
-                        ER 2019 – 38th International Conference on Conceptual Modeling.</span></a> The International
+                        <a href="http://www.inf.ufrgs.br/er2019/call-for-papers/"><span
+                                style="  text-decoration: underline;">
+                                ER 2019 – 38th International Conference on Conceptual Modeling.</span></a> The
+                        International
                         Conference on Conceptual Modeling (ER) is the leading international forum for presenting and
                         discussing current research on conceptual modeling. The topics
                         of interest span the entire spectrum of conceptual modeling including research and practice in
@@ -236,12 +232,12 @@
             <p><br>© 2014 Universidade Federal do Pampa - UNIPAMPA<br><br></p>
         </div>
     </footer>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
-    <script src="assets/js/smoothproducts.min.js"></script>
-    <script src="assets/js/theme.js"></script>
-    <script src="myscript.js"></script>
+    <script src="../assets/js/smoothproducts.min.js"></script>
+    <script src="../assets/js/theme.js"></script>
+    <script src="../myscript.js"></script>
 </body>
 
 </html>

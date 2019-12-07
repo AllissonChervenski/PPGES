@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>PPGES - Seminars and Lectures</title>
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="../assets/css/smoothproducts.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-xl fixed-top bg-white clean-navbar"
+        style="padding-right: 20px;padding-left: 20px;padding-top: 0px;padding-bottom: 0px;">
+        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span
+                    class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><img
+                class="img-fluid" src="../assets/img/unipampa.png" width="120px" style="margin: 0px;margin-left: 40px;">
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
+                            href="indexEnglish.php">Presentation</a></li>
+                    <li class="nav-item text-uppercase my-auto" role="presentation" style="padding-right: 0px;">
+                        <div class="nav-item dropdown align-content-start"><a class="dropdown-toggle"
+                                data-toggle="dropdown" aria-expanded="false" href="#"
+                                style="color: rgba(0,0,0,0.9);font-size: 12.8px;font-weight: 600;">
+                                students and teachers</a>
+                            <div class="dropdown-menu" role="menu" style="font-size: 12px;"><a class="dropdown-item"
+                                    role="presentation" href="coordenadoresEnglish.php">coordination</a><a
+                                    class="dropdown-item" role="presentation"
+                                    href="Guiding TeacheresEnglish.html">guiding
+                                    teachers</a><a class="dropdown-item" role="presentation"
+                                    href="alunosEnglish.php">Students</a></div>
+                        </div>
+                    </li>
+                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
+                            href="eventosEnglish.php">Events</a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
+                            href="seminariosEnglish.php">Seminars and Lectures</a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active"
+                            href="disciplinasEnglish.php">
+                            Master's Subjects</a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 0px;"><a class="nav-link active"
+                            href="informesEnglish.php">Reports</a></li>
+                    <li style="padding-right: 0px;" class="nav-item" role="presentation"><a href="../seminarios.php"
+                            class="nav-link active"
+                            style="font-weight: 300; font-size: 12px; vertical-align: -webkit-baseline-middle; text-transform: none;">Versão
+                            em Português</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <main class="page landing-page">
+        <section class="shadow-sm clean-block clean-hero"
+            style="background-image: url(&quot;../assets/img/dia-do-estudante-990x556.jpg&quot;);color: rgba(36,137,13, 0.85);opacity: 1;filter: blur(0px);min-height: 500px;">
+            <div class="text" style="max-width: 832px;">
+
+                <h1 class="display-4 text-center"><br> Postgraduate Program in Software Engineering
+                    (PPGES)&nbsp;<br><br></h1>
+                <p>Postgraduate Program in Software Engineering linked to the Federal University of Pampa (UNIPAMPA)</p>
+            </div>
+        </section>
+        <section class="shadow-sm clean-block clean-info dark" id="apresentacao"
+            style="padding-bottom: 0px;background-color: transparent;">
+            <div class="container">
+                <div class="block-heading" style="padding-top: 25px;">
+                    <h1 style="border-bottom: 1px solid rgba(0,0,0,.1);padding-bottom: 20px;">Seminars and Lectures
+                    </h1>
+                </div>
+                <h3 class="text-left text-dark">Seminar and Lecture Cycles</h3>
+
+                <p class="text-justify"
+                    style="max-width: none; border-bottom: 1px solid rgba(0,0,0,.09); padding-bottom: 20px;"><br>O Ciclo
+                    de Seminários e Palestras PPGES tem
+                    The objective is to bring accessible lectures to a wider audience by experienced professionals,
+                    researchers and teachers. Talks throughout the year will have a varied theme and focus and may be
+                    more specific (eg advances in the context of a specific problem) or broader (eg challenges in an
+                    area). The presentation and discussion of new and old ideas on different topics contributes in a
+                    fundamental way to the education and research developed by students, teachers and professionals
+                    working in software and hardware development.<br></p>
+
+
+
+
+                <h3 class="text-left text-dark" style="padding-top: 20px">PPGES Lectures 2019/01</h3>
+
+                <p class="text-justify"
+                    style="max-width: none; border-bottom: 1px solid rgba(0,0,0,.09); padding-bottom: 20px;"><br>
+                    The Graduate Program in Software Engineering (PPGES), integrated with the extension project<a
+                        href="https://unihacker.club/"><span style="  text-decoration: underline">
+                            UniHacker.club</span></a>, A series of lectures on research topics conducted by students of
+                    the Professional Master's Degree in Software Engineering, linked to the Federal University of Pampa
+                    (Unipampa), on the Alegrete-RS campus. The seminar will take place the same week as the CBT defenses
+                    and internship of Computer Science and Software Engineering courses. The lectures will take place in
+                    the afternoon, between June 24th and June 28th, at DTIC Room 201. <br /> Presentations are open to
+                    the public and will provide an opportunity for the community to learn about the research projects
+                    conducted by the advisors. . Certificates will also be delivered to
+                    participants.<br /><br /><strong>Speaker:</strong> Luiz Daniel
+                    Garay Trindade.<br /><strong>Guiding Teacher:</strong> Fábio Paulo Basso<br /><strong>Search
+                        Area:</strong> Image Processing<br /><strong>Research Theme:</strong> Image Processing in
+                    Precision Agriculture<br />
+                    <strong>Lecture Summary:</strong>  Agriculture plays an important role in society, being one of the
+                    main sources of food in the world. With the population increasing, it is necessary to increase the
+                    productivity and exportation of agricultural food. To aid crop production and yield, precision
+                    agriculture makes use of technologies to support the producer, aiming at greater productivity and
+                    quality of agricultural commodities. These technologies include remote sensing, which uses
+                    satellites, drones, unmanned aerial vehicles, as well as automated robots, digital cameras and
+                    smartphones. One of the problems encountered by farmers is diseases affecting plants, failure to
+                    detect these diseases early can result in minor or major damage to the final yield of a crop. In
+                    this paper, we present a review of studies that use digital image processing and neural networks to
+                    detect plant diseases.<br /><strong>Place and Date: </strong>DTIC, Room 201, Monday, June 24, at
+                    5:30
+                    pm.<br /><br /><strong>Speaker:</strong> Miguel Ecar. <br /><strong>Guiding Teacher:</strong> João
+                    Pablo S. da Silva<br /><strong>Search
+                        Area:</strong> Software Process Improvement<br /><strong>Research Theme: </strong>Intelligent
+                    Support Software<br />to software process improvement diagnostics<br />
+                    <strong>Lecture Summary:</strong> One of the first steps when working with Software Process
+                    Improvement (MPS) is to make the diagnosis. Currently in the industry, every professional or
+                    consulting firm has its own ad hoc process for making the diagnosis. This usually includes
+                    interviews, questionnaires, local observation, among other practices. Thus, the work proposes to
+                    investigate what are the solutions already proposed to systematize the diagnostic process in MPS.
+                    Such solutions can be methods, protocols, frameworks, tools, among others, to support the diagnostic
+                    process.<br /><strong>Place and Date: </strong>DTIC, Room 201, Monday, June 24, at
+                    18:00.<br /><br /><strong>Speaker:</strong> Guilherme
+                    Legramante Martins. <br /><strong>Guiding Teacher:</strong> Maicon Bernardino<br /><strong>Search
+                        Area:</strong> Performance Test<br /><strong>Research Theme:</strong> Defining a Web Performance
+                    Testing Process<br /><strong>Lecture Summary:</strong>  The presentation will address the general
+                    definitions of performance testing and will explain the proposal on which the research is focused.
+                    Then, the protocol of the systematic review of the literature will be presented, with a brief
+                    discussion of the results. Finally, the future perspectives of the research will be
+                    presented.<br /><strong>Place and Date: </strong>DTIC, Room 201, Tuesday, June 25, at 5:30
+                    pm.<br /><br /><strong>Speaker:</strong>  Giovane D’Avila
+                    Mendonça. <br /><strong>Guiding Teacher:</strong> Gilleanes T. A. Guedes<br /><strong>Search
+                        Area:</strong> Methodologies and Technologies for Software Engineering<br /><strong>Research
+                        Theme:</strong> Requirements Engineering for Multiagent Systems <br /><strong>Lecture
+                        Summary:</strong>  The process of identifying and representing requirements is a crucial phase
+                    in the entire software development process, including multi-agent systems. The development of this
+                    type of system has grown and applied in several areas due, among other reasons, to its ability to
+                    cope with complexity. However, multi-agent systems have specific requirements, so requirements
+                    engineering must be adapted to suit the correct representation of those
+                    requirements.<br /><strong>Place and Date: </strong>DTIC, Room 201, Tuesday, June 25, at
+                    18:00.<br />
+                    <br>
+                    <strong>Speaker:</strong> Luis Guilherme Pires
+                    Moura.<strong></strong><br /><strong>Guiding Teacher:</strong> Claudio Schepke<br /><strong>Search
+                        Area:</strong> Software Architecture<br /><strong>Research Theme:</strong> FaaS –
+                    Function as a Service<br /><strong>Lecture Summary:</strong> FaaS(Function as a Service)
+                    Let's look at its origin, how it works, what are the top companies in the industry, and what are the
+                    advantages and disadvantages of adopting this architectural pattern.<br /><strong>Place and Date: 
+                    </strong>DTIC, Room 201, Wednesday, June 26, at 5:30
+                    pm.<br /><br /><strong>Speaker:</strong> Luciano
+                    Marchezan. <br /><strong>Guiding Teacher:</strong> Elder de Macedo Rodrigues<br /><strong>Search
+                        Area:</strong> Reuse, Software Product Lines.<br /><strong>Research Theme:
+                    </strong>A reengineering process for software product lines.<br /><strong>Lecture
+                        Summary:</strong> Scoping is an essential activity in software product line engineering. This
+                    causes a very large number of approaches to be proposed for the area. Given this large number,
+                    identifying these approaches is not an easy task. One way to achieve this result is through a
+                    systematic review. Therefore, this paper proposes and reports the results of a systematic literature
+                    review conducted with the following objectives: 1) List approach for Scoping of software product
+                    lines; 2) Identify technical information about proposals, such as scoping strategies; 3) Identify
+                    the research methodologies of the proposals, such as applied evaluations.<br /><strong>Place and
+                        Date: </strong>DTIC, Room 201, Wednesday, 6/26, at 6:00 pm.
+                    <br /><br /><strong>Speaker:</strong> Maurício Martinuzzi
+                    Fiorenza.<br /><strong>Guiding Teacher:</strong> Diego Luis Kreutz<br /><strong>Search
+                        Area:</strong> SDN
+                    Firewalls
+                    <br /><strong>Research Theme:</strong> State of the art firewalls applied to SDN
+                    <br /><strong>Lecture Summary:</strong>  The latest SDN firewall tools under development will be
+                    presented, classifying them according to characteristics raised during the
+                    research.<br /><strong>Place and Date: </strong>DTIC, Room 201, Thursday 6/27, at 5:00 pm.<br />
+                    <br>
+                    <strong>Speaker:</strong> Daniel Chaves Temp.<br /><strong>Guiding Teacher:</strong> Rodrigo Brandão
+                    Mansilha<br /><strong>Search area</strong>:
+                    Software Defined Networks<br /><strong>Research Theme:</strong>SDN Controllers <br /><strong>Lecture
+                        Summary:</strong>Software defined networks is a new paradigm in the data transfer area where the
+                    data plane is separated from the control plane. These networks have some advantages, such as better
+                    granularity of traffic control. One of the challenges for deploying this network is the cost of
+                    equipment. This paper presents research on the feasibility of deploying an SDN in a small business
+                    scenario using a low cost controller.<br /><strong>Place and Date: </strong>DTIC, Room 201,
+                    Thursday, June 27, at 5:30 pm<br /><br /><strong>Speaker:</strong> Rumenigue Hohemberger.
+                    <strong></strong><br /><strong>Guiding Teacher:</strong> Marcelo Caggiani
+                    Luizelli<br /><strong>Search Area:</strong> Computer network<br /><strong>Research
+                        Theme:</strong> Use of In-Band Telemetry for Computer Network Anomaly Detection<br />
+                    <strong>Lecture Summary:</strong> Datacenters need to handle a large amount of information resulting
+                    from various services. To prevent data flow from being impaired, network management needs to be
+                    optimally managed, thus minimizing performance losses. However, solving the incident is not enough,
+                    as detection and resolution time directly influence network performance and can disrupt real-time
+                    services such as streaming video, audio, and therefore quality of experience (QoE). This paper aims
+                    to elucidate the importance of the qualified selection of metrics for the detection of transient and
+                    persistent anomalies in the use of in-band telemetry. These metrics are dynamically associated with
+                    computer networking issues.<br /><strong>Place and Date: </strong>DTIC, Room 201, Friday, June 28,
+                    at 5:30 pm<br /> <br><strong>Speaker:</strong> Thiarles
+                    Soares Medeiros. <br /><strong>Guiding Teacher:</strong> Arthur Francisco
+                    Lorenzon<br /><strong>Search Area:</strong> Systems Optimization<br /><strong>Research
+                        Theme:</strong>Reducing Processor Aging Through Thread-Throttling<br /><strong>Lecture
+                        Summary:</strong> To meet the increasing performance demands of modern applications, the number
+                    of colors in a single chip package has been increasing. However, dissipated power and temperature
+                    have been growing at a higher rate, accelerating the aging process of new processors. Since a
+                    significant number of parallel applications are unbalanced, in many cases performance stagnates
+                    after a number of concurrent threads start running. In these cases, the only effect is a processor
+                    temperature increase, which dramatically accelerates aging. Given this, we propose an automatic and
+                    transparent approach to reducing processor aging by automatically adjusting the number of threads
+                    for OpenMP applications at run time. Our tool, Geras, is fully transparent to the end user, so even
+                    compiled binaries can be optimized.<br /><strong>Place and Date: </strong>DTIC, Room 201, Friday the
+                    28th of June, at 18:00<br /><br /></p>
+
+
+
+                <h3 class="text-left text-dark" style="padding-top: 20px">Lecture on Microservice Architectures
+                </h3>
+
+                <p class="text-justify"
+                    style="max-width: none; border-bottom: 1px solid rgba(0,0,0,.09); padding-bottom: 20px;"><br>The
+                    PPGES Seminar and Lecture Cycle has The Coordinator of the Graduate Program in Software Engineering,
+                    Prof. Dr. Elder de Macedo Rodrigues, announces to interested parties a lecture with Liancarlo Leffa
+                    Rolim - IT Specialist at IBM, to be held on March 29th. Liancarlo is a software developer with
+                    high-scale software experience and mission-critical, serving as a programmer for eight
+                    years.<br /><br /><strong>Date: 3/29/2019, 18: 30h</strong> –The lecture will address a seven-year
+                    experience report working on core banking software development. The lecture will address the use of
+                    service-oriented architecture (SOA) and microservice architecture, with technologies such as Spring
+                    Boot, Spring Batch, JavaEE, EJB. , BPEL, OSB, Docker and Kubernetes.<br /><strong>Theme:
+                        “</strong>SOA
+                    and Microservice”<br /><strong>Place:</strong> Alegrete Campus Room 101 - Prof. Márcia Cera
+                    Auditorium<br /><br /></p>
+
+                <h3 class="text-left text-dark" style="padding-top: 20px">Magna Program Opening Class </h3>
+
+                <p class="text-justify"
+                    style="max-width: none; border-bottom: 1px solid rgba(0,0,0,.09); padding-bottom: 20px;"><br>
+                    The Coordinator of the Graduate Program in Software Engineering, Prof. Dr. Elder de Macedo
+                    Rodrigues, summons all teachers and students belonging to the program, for the events described
+                    below, to be held on the day <strong> March 22, 2019.</strong>
+                    <br><BR>
+
+                    <strong> 22/04/2019, 16h</strong> – Lecture with Prof. Dr. Avelino Francisco Zorzo, Coordinator of
+                    Professional Programs in Computing at CAPES / MEC.<br>
+                    <strong>Theme:</strong> “Graduate Evaluation”<br>
+                    <strong> Place:</strong> PampaTec<br>
+                    <br>
+                    <strong> Date: 22/04/2019, 18h30 </strong> –Lecture with Prof. Dr. Avelino Francisco Zorzo,
+                    Coordinator of Professional Programs in Computing at CAPES / MEC.<br>
+                    <strong> Theme:</strong> “Blockchain: what it is and where it is being used”<br>
+                    <strong>Place:</strong> Alegrete Campus Room 101 - Prof. Márcia Cera Auditorium<br>
+            </div>
+
+    </main>
+    <footer class="page-footer dark" style="padding-top: 0px;">
+        <div class="footer-copyright">
+            <p><br>© 2014 Universidade Federal do Pampa - UNIPAMPA<br><br></p>
+        </div>
+    </footer>
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="../assets/js/smoothproducts.min.js"></script>
+    <script src="../assets/js/theme.js"></script>
+    <script src="../myscript.js"></script>
+</body>
+
+</html>

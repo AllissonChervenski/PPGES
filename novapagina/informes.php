@@ -12,35 +12,10 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light navbar-expand-xl fixed-top bg-white clean-navbar" style="padding-right: 20px;padding-left: 20px;padding-top: 0px;padding-bottom: 0px;">
-        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><img class="img-fluid" src="assets/img/unipampa.png" width="120px" style="margin: 0px;margin-left: 40px;">
-            <div
-                class="collapse navbar-collapse" id="navcol-1">
-                <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active" href="index.html">Apresentação</a></li>
-                    <li class="nav-item text-uppercase my-auto" role="presentation" style="padding-right: 0px;">
-                        <div class="nav-item dropdown align-content-start" style="padding-right: 10px;padding-left: 8px;"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#" style="color: rgba(0,0,0,0.9);font-size: 12.8px;font-weight: 600;">Corpo discente e doscente</a>
-                            <div class="dropdown-menu" role="menu" style="font-size: 12px;"><a class="dropdown-item" role="presentation" href="coordenadores.html">coordenação</a><a class="dropdown-item" role="presentation" href="orientadores.html">Professores orientadores</a><a class="dropdown-item" role="presentation" href="alunos.html">Alunos</a></div>
-                        </div>
-                    </li>
-                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active" href="eventos.html">Eventos</a></li>
-                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active" href="seminarios.html">seminários e palestras</a></li>
-                    <li class="nav-item" role="presentation" style="padding-right: 10px;"><a class="nav-link active" href="disciplinas.html">Disciplinas do mestrado</a></li>
-                    <li class="nav-item" role="presentation" style="padding-right: 0px;"><a class="nav-link active" href="informes.html">informes</a></li>
-                    <li style="padding-right: 0px;" class="nav-item" role="presentation"><a href="translated/informesEnglish.html" class="nav-link active"style="font-weight: 300; font-size: 12px; vertical-align: -webkit-baseline-middle; text-transform: none;">English Version</a></li>
-
-                </ul>
-        </div>
-        </div>
-    </nav>
-    <main class="page blog-post">
-        <section class="shadow-sm clean-block clean-hero" style="background-image: url(&quot;assets/img/dia-do-estudante-990x556.jpg&quot;);color: rgba(36,137,13, 0.85);opacity: 1;filter: blur(0px);min-height: 500px;">
-            <div class="text" style="max-width: 832px;">
-                <h1 class="display-4 text-center"><br>Programa de Pós-Graduação em Engenharia de Software (PPGES)&nbsp;<br><br></h1>
-                <p>Programa de Pós-graduação em Engenharia de Software vinculado à Universidade Federal do Pampa (UNIPAMPA)</p>
-            </div>
-        </section>
-        <section class="shadow-sm clean-block clean-info dark" id="informes" style="padding-bottom: 0px; background-color: transparent">
+<?php
+include ("header.html");
+?>
+        <section class="shadow-sm clean-block clean-info dark" id="next-section" style="padding-bottom: 0px; background-color: transparent">
             <div class="container">
                 <div class="block-heading" style="padding-top: 22px;">
                     <h1 style="border-bottom: 1px solid rgba(0,0,0,.1);padding-bottom: 20px">Informes</h1>
